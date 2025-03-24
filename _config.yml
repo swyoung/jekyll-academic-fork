@@ -1,17 +1,17 @@
-title: An Awesome site title
-navbar_title: Jekyll Academic
+title: Scott W. H. Young
+navbar_title: Scott W. H. Young 
 
 author:
-  name: jekyll-academic # Your name
-  email: your-email@domain.com
+  name: Scott W. H. Young 
+  email: scott.young6@montana.edu
 
-description: Jekyll academic is a lightweight theme for any academic usecase. Perfect for portfolio websites, blogs, and academia # description of your site
+description: User Experience & Assessment Librarian # description of your site
 
 url: "https://swyoung.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # The subpath of your site, e.g. /blog
 
 jekyllacademic:
-  homepage_title: "Hello world" # Your homepage title
+  homepage_title: "User Experience & Assessment Librarian" # Your homepage title
   disqusname: # Your disqus sitename
   footer: SWHY, 2025 # Your name, Year
   contentlicense: "CC BY 4.0" # Choose either one of these to put: MIT, Commons Clause, CC BY 4.0, CC BY-NC 4.0, CC BY-ND 4.0, CC BY-NC-ND 4.0, CC BY-NC-SA 4.0, CC BY-NC-SA 4.0, CC BY-SA 4.0
