@@ -1,7 +1,7 @@
 ---
 layout: post
 usehighlight: true
-tags: [libraries]
+tags: [libraries, Jekyll-blog]
 title: Andrew Carnegie, Librarian
 ---
 
