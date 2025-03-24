@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="posts">
-  <h1 style="color: #cc0000;">Tag #{{page.tag}}</h1>
+  <h1>Tag #{{page.tag}}</h1>
   <ul>
     {% for post in site.posts %}
       {% if post.tags contains page.tag %}
