@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Scott W. H. Young, UX & Assessment Librarian
 ---
 
 # {{ site.jekyllacademic.homepage_title }} 
