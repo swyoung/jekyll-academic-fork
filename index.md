@@ -5,7 +5,7 @@ layout: default
 <h1>{{ site.jekyllacademic.homepage_title }}</h1> 
 Hi. I’m Scott, a librarian and associate professor at Montana State University.
 
-<h2>Resaerch and Practice Areas</h2>
+<h2>Research and Practice Areas</h2>
 <ul>
   <li>library assessment</li>
   <li>user experience</li>
