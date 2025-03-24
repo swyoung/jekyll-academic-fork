@@ -36,7 +36,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /:slug
+    permalink: /posts/:slug
   projects:
     output: true
     permalink: /:collection/:title
