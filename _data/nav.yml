@@ -1,11 +1,11 @@
 links:
   - title: about
     url: /about
+  - title: cv
+    url: /cv
   - title: projects
     url: /projects
-  - title: blog
+  - title: posts
     url: /blog
-  - title: gallery
-    url: /gallery
   - title: contact
     url: /contact
