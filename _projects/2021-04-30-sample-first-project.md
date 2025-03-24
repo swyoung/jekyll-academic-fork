@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Sample pinned project"
-stack: "Put your stack or a short snippet here"
+title: "Values-Sensitive Library Assessment Toolkit"
+stack: "Description"
 pinned: true
 order: 1
 ---
 
-<h1 style="color: #cc0000">Sample project that is pinned</h1> 
+<h1 style="color: #cc0000">Values-Sensitive Library Assessment Toolkit</h1> 
 
-This is a sample project that is pinned.
+Toolkit explained.
