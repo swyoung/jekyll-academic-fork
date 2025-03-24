@@ -13,9 +13,9 @@ title: CV
 ### Books
 
 <ul>
-  <li>**Young SWH**. 2024. *Knowing our Value and our Values: Toward An Ethical Practice of Library Assessment*. Library Juice Press.</li>
-  <li>**Young SWH**, Rossmann D, editors. 2017. *Using Social Media to Build Library Communities: A LITA Guide*. Rowman & Littlefield.</li>
-  <li>Rossmann D, **Young SWH**. 2016. *Social Media Optimization: Principles for Building and Engaging Community*. ALA TechSource.</li>
+  <li>Young SWH. 2024. <em>Knowing our Value and our Values: Toward An Ethical Practice of Library Assessment</em>. Library Juice Press.</li>
+  <li>Young SWH, Rossmann D, editors. 2017. <em>Using Social Media to Build Library Communities: A LITA Guide</em>. Rowman & Littlefield.</li>
+  <li>Rossmann D, Young SWH. 2016. <em>Social Media Optimization: Principles for Building and Engaging Community</em>. ALA TechSource.</li>
 </ul>
 
 ### Articles and Book Chapters - Peer Reviewed
@@ -29,7 +29,7 @@ title: CV
 <ul>
   <li>Mannheimer S, Clark JA, Young SWH, Sheehey B, Bond N, Rossmann D, Kettler HS, Shorish Y. An Ethical Reflection Aid for Responsible AI in Computational Archival Science. In: Proceedings of the 2024 IEEE Big Data Conference, 9th Computational Archival Science Workshop. December 17, 2024. Washington, DC.</li>
   <li>Mannheimer S, Bond N, Young SWH, Kettler HS, Marcus A, Slipher S, Clark JA, Rossmann D, Sheehey B, Shorish Y. 2024. Responsible AI practice in libraries and archives: A review of the literature. Information Technology and Libraries. 43(3):1–29.</li>
-- </ul>
+</ul>
 
 ### Articles - Non peer reviewed and popular press 
 <ul>
