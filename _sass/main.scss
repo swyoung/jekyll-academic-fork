@@ -60,6 +60,10 @@ section {
     font-size: 100%;
   }
 
+  a {
+    color: $bodyColor;
+    text-decoration: none;
+    border-bottom: 1px dashed;	
 }
 
 header, section {
