@@ -23,22 +23,22 @@ layout: default
 	}
 </style>
 <section class="posts">
-  <h1 style="color: #cc0000">Example Blog</h1>
+  <h1>Example Blog</h1>
   <div id="search-container">
     <input type="text" id="search-input" placeholder="Search for a tag or post...">
     <ol id="results-container"></ol>
   </div>
-  <h2 style="color: #cc0000">Feed</h2>
+  <h2>Feed</h2>
   <a href="{{ site.baseurl }}/atom.xml" class="rss">RSS <span class="fa fa-rss" style="color: #ee802f"></span></a>
   <a href="{{ site.baseurl }}/feed.json" class="rss">JSON <span class="fa fa-rss" style="color: #ee802f"></span></a>
-  <h2 style="color: #cc0000">Tags</h2>
+  <h2>Tags</h2>
   {% assign tags = site.tags | sort %}
   <p>
     {% for tag in tags %}
       <a href="/tag/{{ tag | first | replace: ' ', '%20'}}">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }}){% unless forloop.last %}, {% endunless %}</a>
     {% endfor %}
   </p>
-  <h2 style="color: #cc0000">Posts</h2>
+  <h2">Posts</h2>
   <ul>
     {% for post in site.posts %}
       <li><a style="color: black;" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
