@@ -45,8 +45,8 @@ title: CV
 
 #### 2025
 
-“Trusting the Process: Tools and Techniques for Participatory Design in Libraries.” User Experience in Libraries (UXLibs). Liverpool, UK. June 2025.
+- “Trusting the Process: Tools and Techniques for Participatory Design in Libraries.” User Experience in Libraries (UXLibs). Liverpool, UK. June 2025.
 
-“Large-Scale Research, Data Sovereignty, Ethics and AI.” Roundtable discussion co-moderated with Kristen Intemann, Nick Lux, and Sara mannheimer. Symposia on Large-Scale Research: The Future of Research in the Age of AI. Bozeman, MT. March 28, 2025.
+- “Large-Scale Research, Data Sovereignty, Ethics and AI.” Roundtable discussion co-moderated with Kristen Intemann, Nick Lux, and Sara mannheimer. Symposia on Large-Scale Research: The Future of Research in the Age of AI. Bozeman, MT. March 28, 2025.
 
 ## Public Scholarship
