@@ -6,16 +6,19 @@ title: CV
 # Curriculum Vita
 
 ## Academic Appointments
-Associate Professor. UX & Assessment Librarian. 2019–Present.
-
-Assistant Professor. UX & Assessment Librarian. 2018–2019.
-
-Assistant Professor. Digital Initiatives Librarian. 2013–2018.
-
-Instructor. Digital Initiatives Librarian. 2012–2013.
-
+Montana State University
+<ul>
+  <li>Associate Professor. UX & Assessment Librarian. 2019–Present.</li>
+  <li>Assistant Professor. UX & Assessment Librarian. 2018–2019.</li>
+  <li>Assistant Professor. Digital Initiatives Librarian. 2013–2018.</li>
+  <li>Instructor. Digital Initiatives Librarian. 2012–2013.</li>
+</ul>
 
 ## Education
+<ul>
+<li>PhD Library and Information Science. [Humboldt University of Berlin](https://www.ibi.hu-berlin.de/en/about-us). 2022.</li>
+  
+</ul>
 
 ## Publications
 ### Books
