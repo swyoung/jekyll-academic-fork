@@ -230,6 +230,11 @@ blockquote {
   color: #333;
 }
 
+.card {
+   background-color: hsla(223,100%,96%,80);
+   border:none;
+}
+
 .cherry-blossom {
 animation-name: rotateCherryBlossom;
 display:inline-block;
