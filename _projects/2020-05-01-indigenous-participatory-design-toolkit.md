@@ -3,6 +3,7 @@ layout: default
 title: "Indigenous Participatory Design Toolkit"
 pinned: false
 stack: "A prototype design tool for creating dialogue around the challenges and strengths of Native students." 
+banner_image: /assets/img/ipdt.jpg
 order: 2
 usehighlight: true
 ---
