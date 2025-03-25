@@ -9,7 +9,7 @@ date: 2014-03-10
 
 The zeitgeist of today's web culture runs something like this: "Social media is more popular than ever, therefore social media buttons should be in more places than ever."  [Pew Internet](http://www.pewinternet.org/2013/12/30/social-media-update-2013/ "Pew Internet Social Media 2013"), among  [others](http://www.slideshare.net/karanbhujbal/the-state-of-social-media2012-comscore-report "comScore state of social media"), continually confirms the growing tide of social media usage.  As a result social media is now ever-present on the web, and the corresponding ubiquity of social media buttons has generated a fair share of skeptical responses. Oliver Reichenstein, founder of design agency [iA](http://ia.net/ "information architects design agency"), wrote back in May 2012 that we should all "[sweep the sleaze](http://ia.net/blog/sweep-the-sleaze/ "sweep the sleaze getting rid of social buttons")" and rid ourselves of social media buttons. Reichenstein criticizes these buttons as unnecessary and unwelcome, saying that social media buttons are in effect desperate pleas to share. He might be right about that. But he predicted that the buttons "will vanish for sure." So far, he's definitely wrong about that. Social media buttons are now more prevalent than ever. Websites from major brands to minor bloggers include social media buttons almost as a matter of course. Why is that? [Luke Wroblewski recently posed](https://twitter.com/lukew/status/439172752218406912) a critical question regarding social media buttons: what are the click-through rates?
 
-![social-stats-lukew](http://scottwhyoung.com/wp-content/uploads/2014/03/social-stats-lukew.png)
+<img style="display: block;" class="img-fluid" src="/assets/img/social-stats-lukew.png" alt="screenshot of a tweet from someone asking for social share data">
 
 It turns out that the British government was willing to share some data. In fact, Luke W.'s question was motivated by an [extensive report released by GOV.UK](https://insidegovuk.blog.gov.uk/2014/02/20/gov-uk-social-sharing-buttons-the-first-10-weeks/ "GOV.UK social sharing buttons: the first 10 weeks") detailing the performance of social sharing buttons across the GOV.UK website. The summation of this report:
 
@@ -31,7 +31,17 @@ Runyon concludes:
 
 > "Let’s be honest, finding you on social media isn’t why most people visit your site. But obviously _some_ people do want to engage further."
 
-True. _Some_ people do click on social media buttons, though it's often difficult to locate the dividing line between useful to some and unnecessary to most. So what is an acceptable click-through rate for social media buttons? Is this even the right question to ask? This discussion prompted me to examine the social media button click-through rates of our own library homepage. You'll notice our social media buttons in the top right of the footer. \[caption id="attachment\_511" align="aligncenter" width="750"\]![Montana-State-University-MSU-Library-homepage](http://scottwhyoung.com/wp-content/uploads/2014/03/Montana-State-University-MSU-Library-homepage-780x1024.png "Montana State University Library - Homepage") Montana State University Library - Homepage\[/caption\]   \[caption id="attachment\_496" align="aligncenter" width="750"\]![Montana-State-University-MSU-Library- homepage-click-data](http://scottwhyoung.com/wp-content/uploads/2014/03/Montana-State-University-MSU-Library-homepage-click-data-779x1024.png "Montana State University Library - Homepage Click Data") Montana State University Library - Homepage Click Data (sample date range)\[/caption\] Drawing on 4 sample date ranges across this academic year, the click-through rates for the MSU Library Homepage social media buttons reflect the performance of Notre Dame's:
+True. _Some_ people do click on social media buttons, though it's often difficult to locate the dividing line between useful to some and unnecessary to most. So what is an acceptable click-through rate for social media buttons? Is this even the right question to ask? This discussion prompted me to examine the social media button click-through rates of our own library homepage. You'll notice our social media buttons in the top right of the footer.
+
+<br>
+
+<img style="display: block;" class="img-fluid" src="/assets/img/Montana-State-University-MSU-Library-homepage.png" alt="screenshot MSU library homepage"><em>Montana State University Library - Homepage</em>
+
+<img style="display: block;" class="img-fluid" src="/assets/img/Montana-State-University-MSU-Library-homepage-click-data.png" alt="screenshot MSU library homepage with heatmap of click behavior"><em>Montana State University Library - Homepage Click Data</em>
+
+<br>
+
+Drawing on 4 sample date ranges across this academic year, the click-through rates for the MSU Library Homepage social media buttons reflect the performance of Notre Dame's:
 
 *   **Twitter**: 0.053%
 *   **Facebook**: 0.043%
