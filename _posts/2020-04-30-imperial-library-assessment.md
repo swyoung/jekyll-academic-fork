@@ -37,6 +37,8 @@ The book's argumentation also finds parallels with emerging discourse around cri
 
 A number of researchers and practitioners are already working in this direction with practices like assessment as care,[^10] community-based archives,[^11] ethnographies,[^12] and other qualitative, participatory, human-centered approaches to assessment.[^13] I enjoyed that this book sharpened my self-reflective perspective on the history of information, further reinforcing the need for justice-oriented approaches to assessment.
 
+<br>
+
 ## Notes
 
 [^1]: Lilburn, J. (2017). Ideology and Audit Culture: Standardized Service Quality Surveys in Academic Libraries. _portal: Libraries and the Academy_ _17_(1), 91-110. [doi:10.1353/pla.2017.0006](http://doi.org/10.1353/pla.2017.0006).
