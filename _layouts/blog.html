@@ -23,22 +23,22 @@ layout: default
 	}
 </style>
 <section class="posts">
-  <h1>Posts on ux, assessment, ethics</h1>
+  <h2>Infrequent posts on UX, assessment, ethics</h2>
   <ul>
     {% for post in site.posts %}
       <li><a style="color: black;" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
     {% endfor %}
   </ul>
 	<br>
-	<br>
 <!--
   <div id="search-container">
     <input type="text" id="search-input" placeholder="Search for a tag or post...">
     <ol id="results-container"></ol>
   </div>
--->
+
   <h2>Feed</h2>
-  <a href="{{ site.baseurl }}/atom.xml" class="rss">RSS <span class="fa fa-rss" style="color: #ee802f"></span></a>
+-->
+  <a style="border-bottom:none;" href="{{ site.baseurl }}/atom.xml" class="rss">RSS <span class="fa fa-rss" style="color: #ee802f"></span></a>
 <!--
   <a href="{{ site.baseurl }}/feed.json" class="rss">JSON <span class="fa fa-rss" style="color: #ee802f"></span></a>
   <h2>Tags</h2>
