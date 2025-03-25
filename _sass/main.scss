@@ -230,6 +230,14 @@ blockquote {
   color: #333;
 }
 
+.cherry-blossom {
+animation-name: rotateCherryBlossom;
+display:inline-block;
+animation-duration: 3s;
+animation-iteration-count: infinite;
+animation-timing-function: linear;
+}
+
 table tr th {background:#eeeee1; color:#333; padding:0; border:#aaa solid 1px;  text-align: center; font-weight: bold;}  
 table tr td {border:1px #ccc solid; padding:5px;}  
 table tr td.rightright {background: #eeeee1;}  
