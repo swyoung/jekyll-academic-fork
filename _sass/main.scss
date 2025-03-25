@@ -108,6 +108,17 @@ header {
   }
 }
 
+footer {
+  a {
+    color: $bodyColor;
+    text-decoration: none;
+  }
+  a:hover {
+    color: $bodyColor;
+    background-color: hsla(223,100%,96%,60);
+  }
+}
+
 nav {
   ul {
     border-right: 1px solid #eee;
