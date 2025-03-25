@@ -23,5 +23,8 @@ This toolkit is derived from extensive survey-based and interview-based research
 ## Timeline
 2019–2022
 
+## Resources
+For more on the process that went into the research and design of the toolkit, view the [presentation at the 2022 Library Assessment Conference](/assets/pdf/ethical_assessment_toolkit_lac_2022_slides.pdf). For an even more in-depth discussion, check out the book: <em><a href="https://litwinbooks.com/books/knowing-our-value-and-our-values/">Knowing our Value and our Values Toward An Ethical Practice of Library Assessment</a></em>, published by Library Juice Press in 2024.
+
 ## Project Page
-[scottwhyoung.com/projects/assessment-toolkit](https://scottwhyoung.com/projects/asessment-toolkit)
+The toolkit is hosted on the Open Science Framework, available at the following address: [doi.org/10.17605/OSF.IO/ZS5C8](https://doi.org/10.17605/OSF.IO/ZS5C8).
