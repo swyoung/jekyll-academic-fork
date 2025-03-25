@@ -10,6 +10,7 @@ usehighlight: true
 
 # {{ page.title }}
 
+<br>
 
 <img style="display: block;" class="img-fluid" src="/assets/img/ipdt.jpg" alt="screenshot showing toolkit cards">
 <em>Cards from the Toolkit</em>
