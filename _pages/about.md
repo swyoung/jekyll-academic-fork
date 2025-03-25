@@ -5,7 +5,7 @@ title: About
 
 <h1>About</h1>
 
-![profile image >](../assets/img/profile_circle_small.png)
+![profile image](../assets/img/profile_circle_small.png)
 
 I’m an associate professor and User Experience & Assessment Librarian at Montana State University.
 
