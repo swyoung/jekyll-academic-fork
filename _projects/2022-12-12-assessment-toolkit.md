@@ -1,17 +1,27 @@
 ---
 layout: default
 title: "Values-Sensitive Library Assessment Toolkit"
-stack: "Description"
+stack: "A practical tool for implementing values-based library assessment practice."
 pinned: true
 order: 1
 ---
 
-<h1>Values-Sensitive Library Assessment Toolkit</h1> 
 
-<h2>Overview</h2>
-The Values-Sensitive Library Assessment Toolkit serves to model a value system for library assessment practice, with the goal of helping practitioners identify and apply the values that are important to their work. The toolkit takes the form of a card deck, presenting 10 values along with 3 activities for working with the values. The toolkit is based on a national study of library assessment practitioners.
+# {{ page.title }}
 
-For more on the process that went into the research and design of the toolkit, view the presentation at the 2022 Library Assessment Conference [PDF]. For an even more in-depth discussion, check out the book: Knowing our Value and our Values Toward An Ethical Practice of Library Assessment, published by Library Juice Press in 2024.
+<br>
 
-Two sample cards are shown below, followed by a digital share link and a printable download of the toolkit.
+<img style="display: block;" class="img-fluid" src="/assets/img/positionality-card.png" alt="screenshot showing toolkit cards">
+<em>The positionality card from the toolkit.</em>
 
+## Project Description
+The Values-Sensitive Library Assessment Toolkit serves to model a value system for library assessment practice, with the goal of helping practitioners identify and apply the values that are important for their assessment practice. The toolkit takes the form of a card deck, presenting 10 values along with 3 activities for working with the values.
+
+## Collaborators
+This toolkit is derived from extensive survey-based and interview-based research involving members of the library assessment community. I wish to thank those practitioners for sharing their time and energy with me.The toolkit also builds on prior prototypes that I’ve co-developed with other collaborators listed in the projects below.
+
+## Timeline
+2019–2022
+
+## Project Page
+[scottwhyoung.com/projects/assessment-toolkit](https://scottwhyoung.com/projects/asessment-toolkit)
