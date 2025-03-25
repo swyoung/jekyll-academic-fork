@@ -1,7 +1,6 @@
 ---
 layout: post
 usehighlight: true
-tags: [libraries, Jekyll-blog]
 title: Participatory Methods at Supreme Court Oral Argument
 ---
 
