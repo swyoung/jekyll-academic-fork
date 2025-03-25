@@ -16,7 +16,7 @@ I hold an MA in [Archives and Public History from New York University](https://w
 
 # Contact
 
-<a href="mailto:" target="scott.young6@montana.edu"><span class="bi bi-envelope-open-fill"></span> Email</a>
+<a href="mailto:scott.young6@montana.edu"><span class="bi bi-envelope-open-fill"></span> Email</a>
 \
 <a href="https://scholar.google.com/citations?user=1zb5c7sAAAAJ&hl=en"><i class="fa-brands fa-google-scholar"></i> Google Scholar</a>
 \
