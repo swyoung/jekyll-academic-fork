@@ -2,7 +2,7 @@
 layout: post
 usehighlight: true
 title: Andrew Carnegie, Librarian
-date: 2025-11-03
+date: 2015-11-03
 ---
 
 Andrew Carnegie was a steel tycoon. Andrew Carnegie was rich. Andrew Carnegie was a librarian. Two of these statements are true.
