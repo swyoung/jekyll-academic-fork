@@ -6,6 +6,10 @@ title: CV
 # Curriculum Vita
 
 ## Academic Appointments
+Associate Professor. UX & Assessment Librarian. 2019–Present.
+Assistant Professor. UX & Assessment Librarian. 2018–2019.
+Assistant Professor. Digital Initiatives Librarian. 2013–2018.
+Instructor. Digital Initiatives Librarian. 2012–2013.
 
 ## Education
 
