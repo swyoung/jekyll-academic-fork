@@ -28,7 +28,7 @@ layout: default
 <br>
 <ul>
     {% for post in site.posts %}
-      <li><a style="color: black;" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
+      <li><a style="color: black;" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time></li>
     {% endfor %}
   </ul>
 	<br>
@@ -50,7 +50,6 @@ layout: default
       <a href="/tag/{{ tag | first | replace: ' ', '%20'}}">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }}){% unless forloop.last %}, {% endunless %}</a>
     {% endfor %}
   </p>
- -->
 </section>
 <script src="/search.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -65,3 +64,4 @@ SimpleJekyllSearch({
   exclude: ['Welcome']
 })
 </script>
+ -->
