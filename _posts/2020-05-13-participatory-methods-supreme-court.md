@@ -1,6 +1,6 @@
 ---
 layout: post
-usehighlight: true
+usehighlight: false
 title: Participatory Methods at Supreme Court Oral Argument
 date: 2020-05-13
 ---
