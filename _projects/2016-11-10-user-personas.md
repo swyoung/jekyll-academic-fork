@@ -4,7 +4,7 @@ title: "User Personas"
 pinned: false
 stack: "A set of 4 library user personas" 
 order: 6
-usehighlight: true
+usehighlight: false
 ---
 
 
