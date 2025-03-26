@@ -72,6 +72,11 @@ section {
   p {
     line-height:2;
   }
+
+li:not(:last-child) { 
+   margin-bottom: 3px;  
+  }
+	
 }
 
 header, section {
