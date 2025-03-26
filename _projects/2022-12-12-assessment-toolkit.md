@@ -2,7 +2,7 @@
 layout: default
 title: "Values-Sensitive Library Assessment Toolkit"
 stack: "A practical tool for implementing values-based library assessment practice."
-pinned: true
+pinned: false
 order: 1
 ---
 
