@@ -4,7 +4,7 @@ title: "Journey Mapping"
 pinned: false
 stack: "A collaboration with Bozeman Public Library to create journey maps for library printing services" 
 order: 5
-usehighlight: true
+usehighlight: false
 ---
 
 
