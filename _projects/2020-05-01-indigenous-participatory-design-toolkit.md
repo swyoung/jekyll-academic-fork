@@ -4,7 +4,7 @@ title: "Indigenous Participatory Design Toolkit"
 pinned: false
 stack: "A prototype design tool for creating dialogue around the challenges and strengths of Native students." 
 order: 2
-usehighlight: true
+usehighlight: false
 ---
 
 
