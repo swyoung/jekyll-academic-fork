@@ -1,6 +1,6 @@
 ---
 layout: post
-usehighlight: true
+usehighlight: false
 title: On the Imperial History of Library Assessment
 date: 2020-04-30
 ---
