@@ -1,6 +1,6 @@
 ---
 layout: post
-usehighlight: true
+usehighlight: false
 title: Measuring the Value of Social Media Buttons
 date: 2014-03-10
 ---
